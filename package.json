@@ -1,0 +1,15 @@
+{
+  "name": "js-form",
+  "version": "1.0.0",
+  "description": "'this is my first js form'",
+  "main": "project-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "js"
+  ],
+  "author": "Melissa sidisaid",
+  "license": "ISC"
+}
